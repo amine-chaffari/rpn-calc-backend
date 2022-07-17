@@ -16,7 +16,7 @@ app.use(cors())
 
 
 
-  let stacksData = [{id:1, stack:[12,211]}]
+  let stacksData = []
 
   let operandsData = ['add', 'substruct','multiply', 'divide']
   
